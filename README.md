@@ -1,16 +1,28 @@
-## Hi there 👋
+# Gordon Healis · Founder, Lenzo Labs
 
-<!--
-**healisg/healisg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Commercial leader turned product builder. I ship AI-augmented software 
+for independent professionals and small businesses.
 
-Here are some ideas to get you started:
+**Now:** Building [Jamjar Pro](https://github.com/healisg/JamJarPro) — 
+a platform helping musicians professionalise their music career: gig 
+tracking, expense management, and real-time financial insights. 
+Auth via Supabase OAuth, Postgres backend, deployed on Replit.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Also building:** [Lenzo Labs](https://lenzolabs.com) — a digital 
+products studio creating tools for independent professionals.
+
+**Background:** 10+ years in commercial leadership across Telecoms, 
+Consumer Retail, and Corporate sectors. Now using that operator experience 
+to build software that solves real business problems.
+
+### What I'm working on
+
+| Project | What it does | Stack |
+
+| [Jamjar Pro](https://github.com/healisg/JamJarPro) | Music career management for gigging musicians | Replit · Supabase · Postgres · TypeScript |
+| Lenzo Labs | Digital products studio for independent professionals | Google Workspace · Replit · Claude API |
+
+---
+
+📍 UK · 🔗 https://www.linkedin.com/in/gordonhealis/ · https://gordonhealis.com
+✉️ healisg@lenzolabs.com
